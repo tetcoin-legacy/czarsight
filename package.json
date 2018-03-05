@@ -46,7 +46,7 @@
     "start": "INSIGHT_PUBLIC_PATH=public node node_modules/.bin/insight-bitcore-api"
   },
   "dependencies": {
-    "insight-bitcore-api": "git://github.com/czarcoin/czarsight-api.git#06c954bc66bd820a1e7ab9315bad3c2cf623e7bf"
+    "insight-bitcore-api": "git://github.com/czarcoin/czarsight-api.git#0c42df8263fb50d8ab9294cfa0ed4400e15494fb"
   },
   "devDependencies": {
     "bower": "~1.2.8",
